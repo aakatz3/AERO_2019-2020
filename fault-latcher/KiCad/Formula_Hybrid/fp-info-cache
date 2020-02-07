@@ -1,4 +1,4 @@
-17099809359882293
+17098228259284293
 Arcana
 Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal_MODIFIED
 3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cui.com/product/resource/sj-352x-smt-series.pdf)
@@ -75830,13 +75830,6 @@ LPA-C011301S-x LED 0805 LIGHT PIPE SINGLE VERT SMD
 0
 2
 2
-aero_footprint
-LXML-PM01
-
-
-0
-3
-3
 aero_footprint
 Murata_DFE252012P_Inductor
 
